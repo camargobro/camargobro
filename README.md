@@ -7,7 +7,7 @@
   <img src="https://tenor.com/pt-BR/view/peppo-dance-programming-gif-20353294.gif" width = 130px > 
 </div>
 
-![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=UTILIZADOR&layout=compact&theme=dracula)
+![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=camargobro&layout=compact&theme=dracula)
 
 ## Tecnologias
 <div>
