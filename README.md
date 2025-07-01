@@ -23,8 +23,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width = 60px />
 </div>  
 
+<div>
 ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=camargobro&layout=compact&theme=dracula)
-
+<div>
+  
 ## Contatos:
 
 <div>
