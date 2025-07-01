@@ -1,7 +1,7 @@
 ## 🔸 Olá, me chamo Gustavo! Bem-vindo ao meu perfil no GitHub. 🔸
 
 - Cursando Ciência da Computação na faculdade Uniritter - 3º Semestre.
-- Desenvolvendo meu conhecimento sobre programação, atualmente focando mais na parte backend.
+- Desenvolvendo meu conhecimento sobre programação, atualmente focando mais em Javascript e Node.js.
 
 <div align = "center">
   <img src="https://tenor.com/pt-BR/view/peppo-dance-programming-gif-20353294.gif" width = 130px > 
