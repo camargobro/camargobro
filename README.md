@@ -7,7 +7,7 @@
   <img src="https://tenor.com/pt-BR/view/peppo-dance-programming-gif-20353294.gif" width = 130px > 
 </div>
 
-![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=camargobro&layout=compact&theme=dracula)
+
 
 ## Tecnologias
 <div>
@@ -21,7 +21,9 @@
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width = 60px />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width = 60px />
-</div>      
+</div>  
+
+![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=camargobro&layout=compact&theme=dracula)
 
 ## Contatos:
 
