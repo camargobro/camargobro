@@ -3,12 +3,6 @@
 - Cursando Ciência da Computação na faculdade Uniritter - 3º Semestre.
 - Desenvolvendo meu conhecimento sobre programação, atualmente focando mais em Javascript e Node.js.
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/camargobro/camargobro/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/camargobro/camargobro/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/camargobro/camargobro/output/github-contribution-grid-snake.svg">
-</picture>
-
 ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=camargobro&layout=compact&theme=dracula)
 
 ## Tecnologias
