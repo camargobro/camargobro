@@ -2,8 +2,10 @@
 
 - Cursando Ciência da Computação na faculdade Uniritter - 3º Semestre.
 - Desenvolvendo meu conhecimento sobre programação, atualmente focando mais em Javascript e Node.js.
+- 
 
 ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=camargobro&layout=compact&theme=dracula)
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=camargobro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
 ## Tecnologias
 <div>
