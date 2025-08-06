@@ -1,8 +1,8 @@
 ## 🔸 Olá, me chamo Gustavo! Bem-vindo ao meu perfil no GitHub. 🔸
 
-- Cursando Ciência da Computação na faculdade Uniritter - 3º Semestre.
+- Cursando Ciência da Computação na faculdade Uniritter - 4º Semestre.
 - Desenvolvendo meu conhecimento sobre programação, atualmente focando mais em Javascript e Node.js.
-- 
+
 
 ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=camargobro&layout=compact&theme=dracula)
 
